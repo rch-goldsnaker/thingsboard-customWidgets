@@ -1,0 +1,21 @@
+{
+  "entityType" : "WIDGETS_BUNDLE",
+  "entity" : {
+    "alias" : "test",
+    "description" : null,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "WIDGETS_BUNDLE",
+      "id" : "3afdb510-21fe-11ef-a03d-1735cad43e87"
+    },
+    "image" : null,
+    "name" : "Customs",
+    "order" : null,
+    "title" : "Customs"
+  },
+  "fqns" : [ "data_visualizer", "rpc", "html3", "time4", "title", "rpc_radial2", "alarm" ],
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
